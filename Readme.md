@@ -1,4 +1,4 @@
-# Objective and selection of Use engagement metric
+# Objective and selection of User engagement metric
 
 Our objective is to predict user engagement for a particular viewer for a particular viewer, I have decided to take 'watched_pct' as the viewer engagement metric.
 
